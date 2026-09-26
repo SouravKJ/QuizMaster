@@ -10,8 +10,9 @@ const FullQuiz = () => {
     const [answer,setAnswer]=useState({})
     const [loading,setLoading]=useState(true)
     const navigate=useNavigate();
+     const API_URL=import.meta.env.VITE_API_URL;
     useEffect(()=>{
-            fetch("http://localhost:8080/api/questions/full")
+            fetch(`${API_URL}/api/questions/full`)
             .then((response)=>response.json())
             .then((data)=>{
                 setQuestions(data.questions);
@@ -92,7 +93,7 @@ const FullQuiz = () => {
         const user=JSON.parse(saveUser);
 
         try{
-            const response=await fetch("http://localhost:8080/api/questions/attempt",{
+            const response=await fetch(`${API_URL}/api/questions/attempt`,{
                 method:"POST",
                 headers:{
                     "Content-Type":"application/json",

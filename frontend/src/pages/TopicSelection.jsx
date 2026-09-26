@@ -7,9 +7,9 @@ function TopicSelection() {
   const [topics, setTopics] = useState([]);
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
-
+   const API_URL=import.meta.env.VITE_API_URL;
   useEffect(() => {
-    fetch("http://localhost:8080/api/questions/topics")
+    fetch(`${API_URL}/api/questions/topics`)
       .then((response) => response.json())
       .then((data) => {
         if (data.success) {

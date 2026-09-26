@@ -13,7 +13,7 @@ function Performance() {
 
   const attemptId = location.state?.attemptId;
   const quizType = location.state?.quizType;
-
+   const API_URL=import.meta.env.VITE_API_URL;
   useEffect(() => {
     if (!attemptId) {
       setLoading(false);
@@ -22,8 +22,8 @@ function Performance() {
 
     // Use subtopic analysis for topic-wise quizzes
     const endpoint = quizType === "topic" 
-      ? `http://localhost:8080/api/performance/subtopic/${attemptId}`
-      : `http://localhost:8080/api/performance/attempt/${attemptId}`;
+      ? `${API_URL}/api/performance/subtopic/${attemptId}`
+      : `${API_URL}/api/performance/attempt/${attemptId}`;
 
     setIsSubtopicAnalysis(quizType === "topic");
 

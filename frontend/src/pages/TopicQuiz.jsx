@@ -12,12 +12,12 @@ const TopicQuiz = () => {
     const [topic,setTopic]=useState("")
     const navigate=useNavigate();
     const location=useLocation();
-    
+     const API_URL=import.meta.env.VITE_API_URL;
     useEffect(()=>{
         const selectedTopic=location.state?.topic;
         if(selectedTopic){
             setTopic(selectedTopic);
-            fetch(`http://localhost:8080/api/questions/topic/${selectedTopic}`)
+            fetch(`${API_URL}/api/questions/topic/${selectedTopic}`)
             .then((response)=>response.json())
             .then((data)=>{
                 if(data.success){
