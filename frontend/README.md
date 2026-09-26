@@ -58,7 +58,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="./screenshots/Home_Page.png" alt="QuizMaster Home Page" width="500">
+  <img src="./screenshot/Home_Page.png" alt="QuizMaster Home Page" width="500">
 </p>
 
 ---
@@ -66,7 +66,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 🔐 Login Page
 
 <p align="center">
-  <img src="./screenshots/Login_Page.png" alt="Login Page" width="500">
+  <img src="./screenshot/Login_Page.png" alt="Login Page" width="500">
 </p>
 
 ---
@@ -74,7 +74,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 📝 Registration Page
 
 <p align="center">
-  <img src="./screenshots/Registration.png" alt="Registration Page" width="500">
+  <img src="./screenshot/Registration.png" alt="Registration Page" width="500">
 </p>
 
 ---
@@ -82,7 +82,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 📊 Dashboard
 
 <p align="center">
-  <img src="./screenshots/Dashboard.png" alt="Dashboard" width="500">
+  <img src="./screenshot/Dashboard.png" alt="Dashboard" width="500">
 </p>
 
 ---
@@ -92,7 +92,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 Users can select a specific topic and practice questions related to that topic.
 
 <p align="center">
-  <img src="./screenshots/TopicWise.png" alt="Topic Wise Quiz" width="500">
+  <img src="./screenshot/TopicWise.png" alt="Topic Wise Quiz" width="500">
 </p>
 
 ---
@@ -102,7 +102,7 @@ Users can select a specific topic and practice questions related to that topic.
 Users can attempt a complete quiz containing questions from different technical topics.
 
 <p align="center">
-  <img src="./screenshots/FullQuiz_start.png" alt="Full Quiz" width="500">
+  <img src="./screenshot/FullQuiz_start.png" alt="Full Quiz" width="500">
 </p>
 
 ---
