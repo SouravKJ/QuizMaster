@@ -202,44 +202,44 @@ QuizMaster/
 
 ## 🎯 How It Works
 
--Create an account using the registration page.
--Log in to QuizMaster.
--Access the dashboard.
--Choose between a Full Quiz or Topic-wise Quiz.
--Answer the multiple-choice questions.
--Submit the quiz and view your score.
--Open the performance section to analyze your results.
--Review weak topics and practice recommended areas.
+- Create an account using the registration page.
+- Log in to QuizMaster.
+- Access the dashboard.
+- Choose between a Full Quiz or Topic-wise Quiz.
+- Answer the multiple-choice questions.
+- Submit the quiz and view your score.
+- Open the performance section to analyze your results.
+- Review weak topics and practice recommended areas.
 
 ---
 
 ## 📊 Performance Analysis
 QuizMaster analyzes quiz performance and provides information such as:
--Accuracy
--Questions attempted
--Correct answers
--Strong topics
--Weak topics
--Recommended topics for further practice
+- Accuracy
+- Questions attempted
+- Correct answers
+- Strong topics
+- Weak topics
+- Recommended topics for further practice
 This helps users identify areas where they need additional practice.
 
 ---
 
 ## 🔮 Future Improvements
--🏆 Leaderboard
--⏱️ Quiz timer
--📅 Quiz history
-- 📊 Advanced performance charts
-- 👨‍💼 Admin dashboard
-- ➕ Admin question management
-- 🌙 Dark mode
-- 📱 Improved mobile experience
+-  🏆 Leaderboard
+-  ⏱️ Quiz timer
+-  📅 Quiz history
+-  📊 Advanced performance charts
+-  👨‍💼 Admin dashboard
+-  ➕ Admin question management
+-  🌙 Dark mode
+-  📱 Improved mobile experience
 
 ---
 
 ## 👨‍💻 Author
-Sourav Kumar Jha
-GitHub: [@SouravKJ](https://github.com/SouravKJ)
+-  Sourav Kumar Jha
+-  GitHub: [@SouravKJ](https://github.com/SouravKJ)
 
 ---
 
