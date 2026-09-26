@@ -123,7 +123,7 @@ const TopicQuiz = () => {
         const user=JSON.parse(saveUser);
 
         try{
-            const response=await fetch("http://localhost:8080/api/questions/attempt",{
+            const response=await fetch(`${API_URL}/api/questions/attempt`,{
                 method:"POST",
                 headers:{
                     "Content-Type":"application/json",
