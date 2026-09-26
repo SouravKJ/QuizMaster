@@ -57,25 +57,33 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 
 ### 🏠 Home Page
 
-![QuizMaster Home Page](./screenshot/Home_Page.png)
+<p align="center">
+  <img src="./screenshots/Home_Page.png" alt="QuizMaster Home Page" width="500">
+</p>
 
 ---
 
 ### 🔐 Login Page
 
-![Login Page](./screenshot/Login_Page.png)
+<p align="center">
+  <img src="./screenshots/Login_Page.png" alt="Login Page" width="500">
+</p>
 
 ---
 
 ### 📝 Registration Page
 
-![Registration Page](./screenshot/Registration.png)
+<p align="center">
+  <img src="./screenshots/Registration.png" alt="Registration Page" width="500">
+</p>
 
 ---
 
 ### 📊 Dashboard
 
-![Dashboard](./screenshot/Dashboard.png)
+<p align="center">
+  <img src="./screenshots/Dashboard.png" alt="Dashboard" width="500">
+</p>
 
 ---
 
@@ -83,7 +91,9 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 
 Users can select a specific topic and practice questions related to that topic.
 
-![Topic Wise Quiz](./screenshot/TopicWise.png)
+<p align="center">
+  <img src="./screenshots/TopicWise.png" alt="Topic Wise Quiz" width="500">
+</p>
 
 ---
 
@@ -91,51 +101,9 @@ Users can select a specific topic and practice questions related to that topic.
 
 Users can attempt a complete quiz containing questions from different technical topics.
 
-![Full Quiz](./screenshot/FullQuiz_start.png)
-
----
-
-### 📋 Full Quiz Result
-
-After completing the quiz, users can view their score and choose to retake the quiz or view their performance.
-
-![Full Quiz Result](./screenshot/FullQuiz_Result.png)
-
----
-
-### 📈 Full Quiz Performance
-
-The performance section analyzes the user's quiz results and identifies strong and weak topics.
-
-![Full Quiz Performance](./screenshot/FullQuiz_performance.png)
-
----
-
-### ⚠️ Topic Performance
-
-Users can view detailed performance information for individual topics and identify areas that need improvement.
-
-![Topic Performance](./screenshot/Topic_performace.png)
-
----
-
-### 🎯 Topic Quiz
-
-Users can attempt questions specifically related to a selected topic.
-
-![Topic Quiz](./screenshot/TopicQuiz_start.png)
-
----
-
-### 📝 Topic Quiz Submission
-
-![Topic Quiz End](./screenshot/TopicQuiz_End.png)
-
----
-
-### 📊 Topic Quiz Result
-
-![Topic Quiz Result](./screenshot/TopicQuiz_Result.png)
+<p align="center">
+  <img src="./screenshots/FullQuiz_start.png" alt="Full Quiz" width="500">
+</p>
 
 ---
 
