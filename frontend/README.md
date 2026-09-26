@@ -87,16 +87,6 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 
 ---
 
-### 🎯 Topic-wise Quiz
-
-Users can select a specific topic and practice questions related to that topic.
-
-<p align="center">
-  <img src="./screenshot/TopicWise.png" alt="Topic Wise Quiz" width="500">
-</p>
-
----
-
 ### 📝 Full Quiz
 
 Users can attempt a complete quiz containing questions from different technical topics.
@@ -127,15 +117,16 @@ The performance section analyzes the user's quiz results and identifies strong a
 
 ---
 
-### ⚠️ Topic Performance
+### 🎯 Topic-wise Quiz
 
-Users can view detailed performance information for individual topics and identify areas that need improvement.
+Users can select a specific topic and practice questions related to that topic.
 
 <p align="center">
-  <img src="./screenshot/Topic_performace.png" alt="Topic Performance" width="500">
+  <img src="./screenshot/TopicWise.png" alt="Topic Wise Quiz" width="500">
 </p>
 
 ---
+
 
 ### 🎯 Topic Quiz
 
@@ -159,6 +150,16 @@ Users can attempt questions specifically related to a selected topic.
 
 <p align="center">
   <img src="./screenshot/TopicQuiz_Result.png" alt="Topic Quiz Result" width="500">
+</p>
+
+---
+
+### ⚠️ Topic Performance
+
+Users can view detailed performance information for individual topics and identify areas that need improvement.
+
+<p align="center">
+  <img src="./screenshot/Topic_performace.png" alt="Topic Performance" width="500">
 </p>
 
 ---
