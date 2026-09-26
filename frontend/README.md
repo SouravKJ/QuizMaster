@@ -58,7 +58,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 🏠 Home Page
 
 <p align="center">
-  <img src="./screenshot/Home_Page.png" alt="QuizMaster Home Page" width="500">
+  <img src="./screenshots/Home_Page.png" alt="QuizMaster Home Page" width="500">
 </p>
 
 ---
@@ -66,7 +66,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 🔐 Login Page
 
 <p align="center">
-  <img src="./screenshot/Login_Page.png" alt="Login Page" width="500">
+  <img src="./screenshots/Login_Page.png" alt="Login Page" width="500">
 </p>
 
 ---
@@ -74,7 +74,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 📝 Registration Page
 
 <p align="center">
-  <img src="./screenshot/Registration.png" alt="Registration Page" width="500">
+  <img src="./screenshots/Registration.png" alt="Registration Page" width="500">
 </p>
 
 ---
@@ -82,7 +82,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 ### 📊 Dashboard
 
 <p align="center">
-  <img src="./screenshot/Dashboard.png" alt="Dashboard" width="500">
+  <img src="./screenshots/Dashboard.png" alt="Dashboard" width="500">
 </p>
 
 ---
@@ -92,7 +92,7 @@ The application provides both full quizzes and topic-wise quizzes, along with pe
 Users can select a specific topic and practice questions related to that topic.
 
 <p align="center">
-  <img src="./screenshot/TopicWise.png" alt="Topic Wise Quiz" width="500">
+  <img src="./screenshots/TopicWise.png" alt="Topic Wise Quiz" width="500">
 </p>
 
 ---
@@ -102,7 +102,63 @@ Users can select a specific topic and practice questions related to that topic.
 Users can attempt a complete quiz containing questions from different technical topics.
 
 <p align="center">
-  <img src="./screenshot/FullQuiz_start.png" alt="Full Quiz" width="500">
+  <img src="./screenshots/FullQuiz_start.png" alt="Full Quiz" width="500">
+</p>
+
+---
+
+### 📋 Full Quiz Result
+
+After completing the quiz, users can view their score and choose to retake the quiz or view their performance.
+
+<p align="center">
+  <img src="./screenshots/FullQuiz_Result.png" alt="Full Quiz Result" width="500">
+</p>
+
+---
+
+### 📈 Full Quiz Performance
+
+The performance section analyzes the user's quiz results and identifies strong and weak topics.
+
+<p align="center">
+  <img src="./screenshots/FullQuiz_performance.png" alt="Full Quiz Performance" width="500">
+</p>
+
+---
+
+### ⚠️ Topic Performance
+
+Users can view detailed performance information for individual topics and identify areas that need improvement.
+
+<p align="center">
+  <img src="./screenshots/Topic_performace.png" alt="Topic Performance" width="500">
+</p>
+
+---
+
+### 🎯 Topic Quiz
+
+Users can attempt questions specifically related to a selected topic.
+
+<p align="center">
+  <img src="./screenshots/TopicQuiz_start.png" alt="Topic Quiz" width="500">
+</p>
+
+---
+
+### 📝 Topic Quiz Submission
+
+<p align="center">
+  <img src="./screenshots/TopicQuiz_End.png" alt="Topic Quiz End" width="500">
+</p>
+
+---
+
+### 📊 Topic Quiz Result
+
+<p align="center">
+  <img src="./screenshots/TopicQuiz_Result.png" alt="Topic Quiz Result" width="500">
 </p>
 
 ---
