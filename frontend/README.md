@@ -175,7 +175,8 @@ QuizMaster/
 ```
 ---
 
-###🎯 How It Works
+## 🎯 How It Works
+
 -Create an account using the registration page.
 -Log in to QuizMaster.
 -Access the dashboard.
@@ -187,7 +188,7 @@ QuizMaster/
 
 ---
 
-###📊 Performance Analysis
+## 📊 Performance Analysis
 QuizMaster analyzes quiz performance and provides information such as:
 -Accuracy
 -Questions attempted
@@ -199,7 +200,7 @@ This helps users identify areas where they need additional practice.
 
 ---
 
-###🔮 Future Improvements
+## 🔮 Future Improvements
 -🏆 Leaderboard
 -⏱️ Quiz timer
 -📅 Quiz history
@@ -211,13 +212,13 @@ This helps users identify areas where they need additional practice.
 
 ---
 
-###👨‍💻 Author
+## 👨‍💻 Author
 Sourav Kumar Jha
 GitHub: [@SouravKJ](https://github.com/SouravKJ)
 
 ---
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
 ### One important correction
